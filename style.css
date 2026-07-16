@@ -14,11 +14,11 @@ h1{
 .text{
     max-width:700px;
     margin:30px auto;
-    background:#111;
+    background:black;
     color:white;
     padding:20px;
     border-radius:20px;
-    font-size:20px;
+}
 }
 
 .photo{
